@@ -42,7 +42,7 @@ to this:
 
 ## Manual
 
-**[examples.c](examples.c) has multiple cases and shows**
+**[examples.c](examples/examples.c) has multiple cases and shows**
 **practical uses of the library functions**
 
 ### Types
