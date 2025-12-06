@@ -1,0 +1,16 @@
+# Build outputs
+/build/
+*.out
+*.o
+*.exe
+
+# Editors / IDEs
+/.vscode/
+.DS_Store
+
+# Dev test data
+/tests/src/dev/
+/tests/data/dev/
+
+# Large data files
+/tests/data/test_big.json

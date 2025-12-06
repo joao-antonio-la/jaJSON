@@ -1,0 +1,8 @@
+{
+  "name": "jaJSON",
+  "features": ["fast", "small", "standalone"],
+  "meta": { "license": "MIT", "year": 2025 },
+  "value": 42.123,
+  "active": true,
+  "nothing": null
+}

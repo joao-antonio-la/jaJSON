@@ -1,0 +1,68 @@
+[
+    {
+        "user_name": "jaozin",
+        "id": 0,
+        "active": true,
+        "highscore": 1309
+    },
+    {
+        "user_name": "mariah",
+        "id": 1,
+        "active": true,
+        "highscore": 1580
+    },
+    {
+        "user_name": "kevin23",
+        "id": 2,
+        "active": false,
+        "highscore": 722
+    },
+    {
+        "user_name": "ana.dev",
+        "id": 3,
+        "active": true,
+        "highscore": 1964
+    },
+    {
+        "user_name": "lucasx",
+        "id": 4,
+        "active": true,
+        "highscore": 1056
+    },
+    {
+        "user_name": "nina",
+        "id": 5,
+        "active": false,
+        "highscore": 411
+    },
+    {
+        "user_name": "tommy",
+        "id": 6,
+        "active": false,
+        "highscore": 670
+    },
+    {
+        "user_name": "aline",
+        "id": 7,
+        "active": true,
+        "highscore": 982
+    },
+    {
+        "user_name": "david99",
+        "id": 8,
+        "active": false,
+        "highscore": 234
+    },
+    {
+        "user_name": "sofia",
+        "id": 9,
+        "active": true,
+        "highscore": 1203
+    },
+    {
+        "user_name": "max",
+        "id": 10,
+        "active" :true,
+        "highscore" :1888
+    }
+]

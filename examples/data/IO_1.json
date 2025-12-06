@@ -1,0 +1,11 @@
+{
+    "project": "jaJSON",
+    "version": "1.0.0",
+    "description": "jaJSON is a C library for dealing with JSON data (files or direct values).",
+    "related": [
+        "C", "JSON", "Parser", "Library"
+    ],
+    "contributors": [
+        "Joao"
+    ]
+}
